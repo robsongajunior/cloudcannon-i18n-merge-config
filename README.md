@@ -42,7 +42,6 @@ If all right, the `_site/_cloudcannon/info.json` will be success merged!
 
 ### IMPORTANT LINKS
 
-- []()
 - [jekyll-multiple-languages-plugin](https://github.com/kurtsson/jekyll-multiple-languages-plugin)
 - [cloudcannon-jekyll](https://github.com/CloudCannon/cloudcannon-jekyll)
 - [extending-your-build-process-with-hooks](https://cloudcannon.com/documentation/articles/extending-your-build-process-with-hooks/)
